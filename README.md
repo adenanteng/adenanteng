@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Hello 👋, i am Aden Anteng
 
-[![mail Badge](https://img.shields.io/badge/-hey@adenanteng.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hey@adenanteng.com)](mailto:hey@adenanteng.com) [![Linkedin Badge](https://img.shields.io/badge/-adenanteng-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adenanteng/)](https://www.linkedin.com/in/adenanteng/) [![Github Badge](https://img.shields.io/badge/-adenanteng-grey?style=flat&logo=github&logoColor=white&link=https://github.com/adenanteng/)](https://www.github.com/adenanteng/) 
+[![mail Badge](https://img.shields.io/badge/-hey@adenanteng.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hey@adenanteng.com)](mailto:hey@adenanteng.com){:target="_blank" rel="noopener"} [![Linkedin Badge](https://img.shields.io/badge/-adenanteng-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adenanteng/)](https://www.linkedin.com/in/adenanteng/) [![Github Badge](https://img.shields.io/badge/-adenanteng-grey?style=flat&logo=github&logoColor=white&link=https://github.com/adenanteng/)](https://www.github.com/adenanteng/) 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=http://cv.adenanteng.com/)](http://cv.adenanteng.com/) 
 <p align='left'> You can view my resume <a href='http://cv.adenanteng.com' target=_blank><u>here</u>.</a></p>
 
