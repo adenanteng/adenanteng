@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Hello 👋, i am Aden Anteng
-[![Gmail Badge](https://img.shields.io/badge/-hey@adenanteng.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:hey@adenanteng.com)](mailto:hey@adenanteng.com) 
+[![Gmail Badge](https://img.shields.io/badge/-hey@adenanteng.com-c14438?style=flat&logo=Mail.Ru&logoColor=white&link=mailto:hey@adenanteng.com)](mailto:hey@adenanteng.com) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-adenanteng-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adenanteng/)](https://www.linkedin.com/in/adenanteng/) 
 
