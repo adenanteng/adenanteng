@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 [![javascript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) 
 
 [![bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) 
-[![html5 Badge](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=Wordpress&logoColor=white)](#) 
+[![wordpress Badge](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=Wordpress&logoColor=white)](#) 
 [![laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#) 
 
 ## Some of my Github Stats
