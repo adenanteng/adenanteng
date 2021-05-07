@@ -16,10 +16,12 @@ You can click the Preview link to take a look at your changes.
 [![VSCode Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](#) 
 [![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)](#) 
 [![Inkscape Badge](https://img.shields.io/badge/-Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](#) 
+
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](#) 
 [![html5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) 
 [![css3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) 
 [![javascript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) 
+
 [![bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#) 
 [![html5 Badge](https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=Wordpress&logoColor=white)](#) 
 [![laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#) 
