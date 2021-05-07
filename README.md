@@ -14,6 +14,10 @@ You can click the Preview link to take a look at your changes.
 [![Manjaro Badge](https://img.shields.io/badge/-Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)](#) 
 [![GNOME Badge](https://img.shields.io/badge/-Gnome-4A86CF?style=for-the-badge&logo=GNOME&logoColor=white)](#) 
 [![VSCode Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](#) 
+[![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)](#) 
+[![Inkscape Badge](https://img.shields.io/badge/-Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white)](#) 
+[![Docker Badge](https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=Docker&logoColor=white)](#) 
+[![Android Badge](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)](#) 
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=adenanteng alt=adenanteng /> </p>
