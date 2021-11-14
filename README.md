@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 [![Github Badge](https://img.shields.io/badge/-adenanteng-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/adenanteng/)](https://www.github.com/adenanteng/) 
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=for-the-badge&link=https://cv.adenanteng.com/)](https://cv.adenanteng.com/) 
 
-<p align='left'> You can view my resume <a href='http://cv.adenanteng.com' target=_blank><u>here</u>.</a></p>
+<p align='left'> You can view my resume <a href='https://cv.adenanteng.com' target=_blank><u>here</u>.</a></p>
 
 ## Some of my Equipment
 [![Intel Badge](https://img.shields.io/badge/-Intel-0071C5?style=for-the-badge&logo=Intel&logoColor=white)](#) 
