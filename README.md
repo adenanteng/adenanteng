@@ -5,10 +5,10 @@ You can click the Preview link to take a look at your changes.
 
 ## Hello 👋, i am Aden Anteng
 
-[![mail Badge](https://img.shields.io/badge/-hey@adenanteng.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hey@adenanteng.com)](mailto:hey@adenanteng.com) 
+[![mail Badge](https://img.shields.io/badge/-hey@adenanteng.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hey@anteng.co)](mailto:hey@anteng.co) 
 [![Linkedin Badge](https://img.shields.io/badge/-adenanteng-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adenanteng/)](https://www.linkedin.com/in/adenanteng/) 
 [![Github Badge](https://img.shields.io/badge/-adenanteng-grey?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/adenanteng/)](https://www.github.com/adenanteng/) 
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=for-the-badge&link=https://cv.adenanteng.com/)](https://cv.adenanteng.com/) 
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=for-the-badge&link=https://cv.adenanteng.com/)](https://anteng.co/) 
 
 <p align='left'> You can view my resume <a href='https://cv.adenanteng.com' target=_blank><u>here</u>.</a></p>
 
