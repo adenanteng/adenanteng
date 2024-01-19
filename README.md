@@ -42,7 +42,9 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adenanteng&repo=waykapay&theme=dark&hide_border=false&show_owner=true)](https://github.com/adenanteng/waykapay)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=adenanteng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github)](#)
+
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=adenanteng&theme=dark&hide_border=false)](#)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adenanteng&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)
 
 ---
